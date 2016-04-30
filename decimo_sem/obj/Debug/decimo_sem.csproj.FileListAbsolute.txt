@@ -1,0 +1,9 @@
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\bin\Debug\decimo_sem.exe.config
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\bin\Debug\decimo_sem.exe
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\bin\Debug\decimo_sem.pdb
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\obj\Debug\decimo_sem.csprojResolveAssemblyReference.cache
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\obj\Debug\decimo_sem.Form1.resources
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\obj\Debug\decimo_sem.Properties.Resources.resources
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\obj\Debug\decimo_sem.csproj.GenerateResource.Cache
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\obj\Debug\decimo_sem.exe
+c:\users\alberto\documents\visual studio 2015\Projects\decimo_sem\decimo_sem\obj\Debug\decimo_sem.pdb
