@@ -1,0 +1,1 @@
+# Fotovoltaico_Auxiliares-
